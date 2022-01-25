@@ -37,7 +37,7 @@ I'm
 
 ```json
 {
-    "languages" : ["JavaScript","C","C++","Python"],
+    "languages" : ["C", "C++", "JavaScript", "Python"],
     "backend" : ["NodeJS"],
     "frontend" : ["React JS, Next JS, Graphql client"],
     "database" : ["MongoDB","MySql"],
@@ -55,8 +55,6 @@ I'm
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 
-
-<br/>
 <br/>
 <br/>
 
