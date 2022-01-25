@@ -7,7 +7,7 @@ Assalamu alaikum ! 👋
 </h3>
 
 <samp>
-    <p align="center">I am AHM. Fahim Morshed. I am a Student, Developer & Gardenner.</p>
+    <p align="center">I am AHM. Fahim Morshed. I am a Student, Developer & Gardener.</p>
     <p align="center">
     <a href="https://github.com/mdFahimMorshed"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdFahimMorshed?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
