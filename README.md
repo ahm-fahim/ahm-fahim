@@ -2,12 +2,12 @@
 <!-- image was 300px -->
 <!-- <img style="border-radius: 10px" src="torikus.jpg" width="250px"> -->
 
-<h3 align="center">
-Assalamu alaikum ! 👋
-</h3>
+<h1 align="center">
+I'm
+</h1>
 <img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" />
 <samp>
-    <p align="center">I am AHM. Fahim Morshed. I am a Student, Developer & Gardener.</p>
+    <h3 align="center">I am a Student, Developer & Gardener.</h3>
     <p align="center">
     <a href="https://github.com/mdFahimMorshed"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdFahimMorshed?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
