@@ -5,7 +5,7 @@
 <h3 align="center">
 Assalamu alaikum ! 👋
 </h3>
-<img align="center" alt="GIF" width="100%" height="200px"  src="https://i.ibb.co/RBqYSNz/AHM-Fahim-Morshed-1.gif" />
+<img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" />
 <samp>
     <p align="center">I am AHM. Fahim Morshed. I am a Student, Developer & Gardener.</p>
     <p align="center">
