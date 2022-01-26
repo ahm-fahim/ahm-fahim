@@ -9,7 +9,7 @@ I'm
 <samp>
     <h3 align="center">I am a Student, Developer & Gardener.</h3>
     <p align="center">
-    <a href="https://github.com/mdFahimMorshed"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdFahimMorshed?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://github.com/ahm-fahim"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ahm-fahim?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
 </samp>
 </p>
@@ -61,14 +61,14 @@ I'm
 <!-- <a href="https://github.com/ehalt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdFahimMorshed&theme=tokyonight" />
   </a> -->
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdFahimMorshed&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
 
 <br/>
 <!-- <img align="left" alt="Fahim's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=mdFahimMorshed&show_icons=true&theme=radical&count_private=true hide_border=ture" /> -->
 
-![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=mdFahimMorshed&show_icons=true&include_all_commits=true)
+![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=ahm-fahim&show_icons=true&include_all_commits=true)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdFahimMorshed&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahm-fahim&theme=react-dark&hide_border=true&area=true)
 
 
 <br/>
@@ -76,7 +76,7 @@ I'm
 <samp>
     <p align="center"> 
         Visitor count : <br>
-        <img src="https://profile-counter.glitch.me/mdFahimMorshed/count.svg" />
+        <img src="https://profile-counter.glitch.me/ahm-fahim/count.svg" />
     </p>
 </samp>
 
