@@ -24,11 +24,11 @@ I'm
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 **Currently working on:** *Frontend Development*.
-- 📖 __Currently learning:__ Graphql & Deep Js.
-- 🤔 __Exploring:__ JavaScript
-- 🥅 __Goal:__ being a Software Engineer 💙 
-- ❓ __Ask me about:__ HTML, CSS, Bootstrap, Meterial UI, React-Bootstrap, JavaScript, C, Python, React js, Graphql, Mysql, MongoDB && CCNA 😊 
+- 🔭 Currently working on: Competitive Progrramming
+- 📖 __Currently learning: C++
+- 🤔 __Exploring:C++
+- 🥅 __Goal:__ being a Software Engineer 
+- ❓ __Ask me about: Nothing! Becauce I'm busy.
 - ⚡ __Fun fact:__ I love to Gardening. 😎 
 
 <br/>
@@ -38,15 +38,7 @@ I'm
 ```json
 {
     "languages" : ["C", "C++", "JavaScript", "Python"],
-    "backend" : ["NodeJS"],
-    "frontend" : ["React JS, Next JS, Graphql client"],
-    "database" : ["MongoDB","MySql"],
-    "others" : ["NPM","Yarn","Git","Github"]
-},
-{
-    "tools": ["Figma", "Canva"]
 }
-
 ```
 <br/>
 
