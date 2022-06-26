@@ -22,14 +22,14 @@ I'm
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
-<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
-- 🔭 Currently working on: Competitive Progrramming
-- 📖 __Currently learning: C++
-- 🤔 __Exploring:C++
-- 🥅 __Goal:__ being a Software Engineer 
-- ❓ __Ask me about: Nothing! Becauce I'm busy.
-- ⚡ __Fun fact:__ I love to Gardening. 😎 
+- 🔭 Currently working on : Competitive Progrramming
+- 📖 Currently learning   : C++
+- 🤔 Exploring            : C++
+- 🥅 Goal                 : Being a Software Engineer 
+- ❓ Ask me about         : Nothing! Becauce I'm busy.
+- ⚡ Fun fact              : I love to Gardening.
 
 <br/>
 
