@@ -24,12 +24,12 @@ I'm
 
 <!-- <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
-- 🔭 Currently working on : Competitive Progrramming
+- 🔭 Currently working on : Full Stack Development by MERN
 - 📖 Currently learning   : C++
 - 🤔 Exploring            : C++
 - 🥅 Goal                 : Being a Software Engineer 
 - ❓ Ask me about         : Nothing! Becauce I'm busy.
-- ⚡ Fun fact              : I love to Gardening.
+- ⚡ Fun fact              : Why I chose my career in software engineering!
 
 <br/>
 
@@ -37,7 +37,7 @@ I'm
 
 ```json
 {
-    "languages" : ["C", "C++", "JavaScript", "Python"],
+    "languages" : ["C", "python","Javascript", "C++"].
 }
 ```
 <br/>
