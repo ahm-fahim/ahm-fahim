@@ -37,7 +37,7 @@ I'm
 
 ```json
 {
-    "languages" : ["C", "python","Javascript"].
+    "languages" : ["C", "python","Javascript"]
 }
 ```
 <br/>
