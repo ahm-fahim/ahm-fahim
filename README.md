@@ -33,7 +33,7 @@ I'm
 
 <br/>
 
-#### Top Technologies
+#### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
