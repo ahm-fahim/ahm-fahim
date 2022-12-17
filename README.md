@@ -4,22 +4,10 @@
    <img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" />
    
    <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=a+Student,+Developer+and+Gardenner.;Active+Learner/Researcher;and+Love+to+learn+new+stuffs"></a>
-</p>
-...
-<h1 align="center">
-I'm
-</h1>
-<img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" />
-<samp>
-    <h3 align="center">I am a Student, Developer & Gardener.</h3>
-    <p align="center">
-    <a href="https://github.com/ahm-fahim"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ahm-fahim?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p>
-</samp>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=a+Student,+Developer+and+Gardenner.;Active+Learner/Researcher;and+Love+to+learn+new+stuffs"></a>
+   </p>
 </p>
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
