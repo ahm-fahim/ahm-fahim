@@ -42,7 +42,6 @@ I'm
 <br/>
 
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahm-fahim&show_icons=true&include_all_commits=true)
 
 <br/>
 
