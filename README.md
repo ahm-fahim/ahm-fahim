@@ -1,6 +1,5 @@
 <p align="center">
-<!-- image was 300px -->
-<!-- <img style="border-radius: 10px" src="" width="250px"> -->
+
 
 <h1 align="center">
 I'm
