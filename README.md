@@ -41,10 +41,7 @@ I'm
 
 <br/>
 
-<!-- <a href="https://github.com/ehalt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdFahimMorshed&theme=tokyonight" />
-  </a> -->
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
 
 <!-- <img align="left" alt="Fahim's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=mdFahimMorshed&show_icons=true&theme=radical&count_private=true hide_border=ture" /> -->
 
