@@ -42,11 +42,7 @@ I'm
 <br/>
 
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
-
-<img align="right" alt="Fahim's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=mdFahimMorshed&show_icons=true&theme=radical&count_private=true hide_border=ture" />
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahm-fahim&show_icons=true&include_all_commits=true)
-
 
 <br/>
 
