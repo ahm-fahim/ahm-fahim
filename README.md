@@ -65,8 +65,11 @@ I'm
 </samp>
 
 
-<!-- social links here -->
+### Me Where:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 
+<!-- social links here -->
 [facebook]:https://www.facebook.com/ahm.fahimmorshed
 [linkedin]: https://www.linkedin.com/in/
 
