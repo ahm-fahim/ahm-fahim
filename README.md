@@ -72,9 +72,6 @@
 - ❓ Ask me about         : Nothing! Becauce I'm busy.
 - ⚡ Fun fact              : Why I chose my career in software engineering!
 
-<br/>
-
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&theme=react&layout=compact" />
 
 <br/>
 
@@ -83,7 +80,6 @@
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahm-fahim&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&langs_count=8&theme=algolia)
 	
-![](https://komarev.com/ghpvc/?username=ahm-fahim&style=flat-square)
 
 <samp>
     <p align="center"> 
