@@ -3,10 +3,19 @@
    <h1 align="center"><b>Hi , I'm </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I am a Student, Developer & Gardener,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Student, +Developer+&+Gardener,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p> 
 ...
-
+<h1 align="center">
+I'm
+</h1>
+<img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" />
+<samp>
+    <h3 align="center">I am a Student, Developer & Gardener.</h3>
+    <p align="center">
+    <a href="https://github.com/ahm-fahim"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ahm-fahim?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p>
+</samp>
 </p>
 <br/>
 
