@@ -18,11 +18,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🔭 Currently working on : Full Stack Development by MERN
-- 📖 Currently learning   : C++
+- 📖 Currently learning   : C++ (CP)
 - 🤔 Exploring            : Data Structure & Algorithm
-- 🥅 Goal                 : Being a Software Engineer 
+- 🥅 Goal                 : Wanna Be A Good Human Being
 - ❓ Ask me about         : Nothing! Becauce I'm busy.
-- ⚡ Fun fact              : Why I chose my career in software engineering!
 
 <br/>
 
