@@ -25,16 +25,7 @@
 - ⚡ Fun fact              : Why I chose my career in software engineering!
 
 <br/>
-<details>
-	<summary><h2>Git Stats</h2></summary>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahm-fahim&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-fahim&langs_count=8&theme=algolia)
-</details>
-	
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <samp>
     <p align="center"> 
         Visitor count : <br>
