@@ -9,11 +9,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *ME*
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 Currently working on : Full Stack Development by MERN
+- 🔭 Currently working on : Competitive Programming
 - 📖 Currently learning   : C++ (CP)
 - 🤔 Exploring            : Data Structure & Algorithm
 - 🥅 Goal                 : Wanna Be A Good Human Being
-- ❓ Ask me about         : Nothing! Becauce I'm busy.
+- ❓ Ask me about         : Nothing! Becauce I'm busy
 
 <br/>
 
