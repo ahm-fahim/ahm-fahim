@@ -1,5 +1,5 @@
 <h1 color="white">MD. Fahim Morshed</h1>
-<p>is a competitive programming enthusiast who is deeply passionate about coding. Hailing from Bogura, Bangladesh, his coding journey started at a young age, driven by a fascination for solving intricate problems. 
+<p font-size="16px" font_weight="bold">is a competitive programming enthusiast who is deeply passionate about coding. Hailing from Bogura, Bangladesh, his coding journey started at a young age, driven by a fascination for solving intricate problems. 
 Fahim has excelled in competitive programming, consistently ranking among the top participants in various contests. Beyond competitions, he shares his expertise by mentoring and assisting fellow programmers on online forums. 
 His dedication to self-improvement, willingness to embrace new challenges, and effective teamwork make him a valuable asset to any project. Fahim's love for coding, combined with his diverse interests, reflects his well-rounded personality, making him an inspiring figure in the programming community at Southeast University.</p>
 	
