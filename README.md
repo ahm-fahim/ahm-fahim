@@ -1,10 +1,7 @@
-<!-- <img align="center" alt="GIF" width="100%"   src="https://i.ibb.co/pzp3TC8/Click-to-add-a-heading.gif" /> -->
-<p align="center">
-   <h1 align="center"><b>Assalamualaikum! Fahim Here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-   <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=a+Student,+Competitive Programmer+and+Gardenner.;Active+Learner/Researcher;and+Love+to+learn+new+stuffs"></a>
-   </p>
-</p>
+<h1>MD. Fahim Morshed</h1>
+<p>is a competitive programming enthusiast who is deeply passionate about coding. Hailing from Bogura, Bangladesh, his coding journey started at a young age, driven by a fascination for solving intricate problems. 
+Fahim has excelled in competitive programming, consistently ranking among the top participants in various contests. Beyond competitions, he shares his expertise by mentoring and assisting fellow programmers on online forums. 
+His dedication to self-improvement, willingness to embrace new challenges, and effective teamwork make him a valuable asset to any project. Fahim's love for coding, combined with his diverse interests, reflects his well-rounded personality, making him an inspiring figure in the programming community at Southeast University.</p>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *ME*
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
